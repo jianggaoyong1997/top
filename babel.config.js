@@ -3,3 +3,4 @@ module.exports = {
     '@vue/app'
   ]
 }
+// es5转换es6的
